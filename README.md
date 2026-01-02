@@ -34,7 +34,7 @@ Folder: Array_II/
 
 ## Repository Structure
 
-
+```
 ├── Array_I/
 │   ├── concatenation_of_array.py
 │   ├── shuffle_the_array.py
@@ -46,7 +46,7 @@ Folder: Array_II/
 │   └── find_all_numbers_disappeared_in_an_array.cpp
 |
 └── README.md
-
+```
 ------------------------------------------------------------
 
 ## Goal
