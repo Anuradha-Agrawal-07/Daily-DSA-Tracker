@@ -34,17 +34,16 @@ Folder: Array_II/
 
 ## Repository Structure
 
-leetcode-quest/
-|
+
 ├── Array_I/
-|     ├── concatenation_of_array.py
-|     ├── shuffle_the_array.py
-|     └── max_consecutive_ones.cpp
+│   ├── concatenation_of_array.py
+│   ├── shuffle_the_array.py
+│   └── max_consecutive_ones.cpp
 |
 ├── Array_II/
-|     ├── set_mismatch.cpp
-|     ├── numbers_smaller_than_current.cpp
-|     └── find_all_numbers_disappeared_in_an_array.cpp
+│   ├── set_mismatch.cpp
+│   ├── numbers_smaller_than_current.cpp
+│   └── find_all_numbers_disappeared_in_an_array.cpp
 |
 └── README.md
 
