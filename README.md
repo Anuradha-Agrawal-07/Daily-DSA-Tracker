@@ -30,6 +30,26 @@ Folder: Array_II/
 | 2   | How Many Numbers Are Smaller Than the Current Number | numbers_smaller_than_current.cpp          |
 | 3   | Find All Numbers Disappeared in an Array       | find_all_numbers_disappeared_in_an_array.cpp   |
 
+## Level 2 — Array II (3 Problems)
+Folder: Array_II/
+
+| No. | Problem Name                                   | File                                           |
+|-----|------------------------------------------------|------------------------------------------------|
+| 1   | Set Mismatch                                   | set_mismatch.cpp                               |
+| 2   | How Many Numbers Are Smaller Than the Current Number | numbers_smaller_than_current.cpp          |
+| 3   | Find All Numbers Disappeared in an Array       | find_all_numbers_disappeared_in_an_array.cpp   |
+
+
+## Level 3 — Stack (3 Problems)
+Folder: Stack/
+
+| No. | Problem Name                                   | File                                           |
+|-----|------------------------------------------------|------------------------------------------------|
+| 1   | Set Mismatch                                   | set_mismatch.cpp                               |
+| 2   | How Many Numbers Are Smaller Than the Current Number | numbers_smaller_than_current.cpp          |
+| 3   | Find All Numbers Disappeared in an Array       | find_all_numbers_disappeared_in_an_array.cpp   |
+
+
 ------------------------------------------------------------
 
 ## Repository Structure
